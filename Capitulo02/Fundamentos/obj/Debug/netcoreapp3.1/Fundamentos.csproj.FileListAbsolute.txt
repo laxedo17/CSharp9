@@ -1,0 +1,13 @@
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Fundamentos\bin\Debug\netcoreapp3.1\Fundamentos.exe
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Fundamentos\bin\Debug\netcoreapp3.1\Fundamentos.deps.json
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Fundamentos\bin\Debug\netcoreapp3.1\Fundamentos.runtimeconfig.json
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Fundamentos\bin\Debug\netcoreapp3.1\Fundamentos.runtimeconfig.dev.json
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Fundamentos\bin\Debug\netcoreapp3.1\Fundamentos.dll
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Fundamentos\bin\Debug\netcoreapp3.1\Fundamentos.pdb
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Fundamentos\obj\Debug\netcoreapp3.1\Fundamentos.csprojAssemblyReference.cache
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Fundamentos\obj\Debug\netcoreapp3.1\Fundamentos.AssemblyInfoInputs.cache
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Fundamentos\obj\Debug\netcoreapp3.1\Fundamentos.AssemblyInfo.cs
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Fundamentos\obj\Debug\netcoreapp3.1\Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Fundamentos\obj\Debug\netcoreapp3.1\Fundamentos.dll
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Fundamentos\obj\Debug\netcoreapp3.1\Fundamentos.pdb
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Fundamentos\obj\Debug\netcoreapp3.1\Fundamentos.genruntimeconfig.cache
