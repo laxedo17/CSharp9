@@ -1,0 +1,16 @@
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Variables\bin\Debug\net5.0\Variables.exe
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Variables\bin\Debug\net5.0\Variables.deps.json
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Variables\bin\Debug\net5.0\Variables.runtimeconfig.json
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Variables\bin\Debug\net5.0\Variables.runtimeconfig.dev.json
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Variables\bin\Debug\net5.0\Variables.dll
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Variables\bin\Debug\net5.0\ref\Variables.dll
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Variables\bin\Debug\net5.0\Variables.pdb
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Variables\obj\Debug\net5.0\Variables.csprojAssemblyReference.cache
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Variables\obj\Debug\net5.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Variables\obj\Debug\net5.0\Variables.AssemblyInfoInputs.cache
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Variables\obj\Debug\net5.0\Variables.AssemblyInfo.cs
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Variables\obj\Debug\net5.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Variables\obj\Debug\net5.0\Variables.dll
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Variables\obj\Debug\net5.0\ref\Variables.dll
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Variables\obj\Debug\net5.0\Variables.pdb
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Variables\obj\Debug\net5.0\Variables.genruntimeconfig.cache

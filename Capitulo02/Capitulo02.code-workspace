@@ -6,6 +6,15 @@
 		{
 			"name": "Codigo",
 			"path": ".."
+		},
+		{
+			"path": "Variables"
+		},
+		{
+			"path": "Fundamentos"
+		},
+		{
+			"path": "Arrays"
 		}
 	],
 	"settings": {}
