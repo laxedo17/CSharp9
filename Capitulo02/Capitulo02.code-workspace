@@ -17,5 +17,7 @@
 			"path": "Arrays"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"editor.formatOnSave": true
+	}
 }
