@@ -1,0 +1,16 @@
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Ejercicio02\bin\Debug\net5.0\Ejercicio02.exe
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Ejercicio02\bin\Debug\net5.0\Ejercicio02.deps.json
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Ejercicio02\bin\Debug\net5.0\Ejercicio02.runtimeconfig.json
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Ejercicio02\bin\Debug\net5.0\Ejercicio02.runtimeconfig.dev.json
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Ejercicio02\bin\Debug\net5.0\Ejercicio02.dll
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Ejercicio02\bin\Debug\net5.0\ref\Ejercicio02.dll
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Ejercicio02\bin\Debug\net5.0\Ejercicio02.pdb
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Ejercicio02\obj\Debug\net5.0\Ejercicio02.csprojAssemblyReference.cache
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Ejercicio02\obj\Debug\net5.0\Ejercicio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Ejercicio02\obj\Debug\net5.0\Ejercicio02.AssemblyInfoInputs.cache
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Ejercicio02\obj\Debug\net5.0\Ejercicio02.AssemblyInfo.cs
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Ejercicio02\obj\Debug\net5.0\Ejercicio02.csproj.CoreCompileInputs.cache
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Ejercicio02\obj\Debug\net5.0\Ejercicio02.dll
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Ejercicio02\obj\Debug\net5.0\ref\Ejercicio02.dll
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Ejercicio02\obj\Debug\net5.0\Ejercicio02.pdb
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\Ejercicio02\obj\Debug\net5.0\Ejercicio02.genruntimeconfig.cache

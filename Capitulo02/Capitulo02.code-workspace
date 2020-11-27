@@ -15,6 +15,18 @@
 		},
 		{
 			"path": "Arrays"
+		},
+		{
+			"path": "ManejoNulls"
+		},
+		{
+			"path": "FormatoSaidaUser"
+		},
+		{
+			"path": "Argumentos"
+		},
+		{
+			"path": "Ejercicio02"
 		}
 	],
 	"settings": {

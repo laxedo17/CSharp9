@@ -1,0 +1,16 @@
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\ManejoNulls\bin\Debug\net5.0\ManejoNulls.exe
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\ManejoNulls\bin\Debug\net5.0\ManejoNulls.deps.json
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\ManejoNulls\bin\Debug\net5.0\ManejoNulls.runtimeconfig.json
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\ManejoNulls\bin\Debug\net5.0\ManejoNulls.runtimeconfig.dev.json
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\ManejoNulls\bin\Debug\net5.0\ManejoNulls.dll
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\ManejoNulls\bin\Debug\net5.0\ref\ManejoNulls.dll
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\ManejoNulls\bin\Debug\net5.0\ManejoNulls.pdb
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\ManejoNulls\obj\Debug\net5.0\ManejoNulls.csprojAssemblyReference.cache
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\ManejoNulls\obj\Debug\net5.0\ManejoNulls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\ManejoNulls\obj\Debug\net5.0\ManejoNulls.AssemblyInfoInputs.cache
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\ManejoNulls\obj\Debug\net5.0\ManejoNulls.AssemblyInfo.cs
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\ManejoNulls\obj\Debug\net5.0\ManejoNulls.csproj.CoreCompileInputs.cache
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\ManejoNulls\obj\Debug\net5.0\ManejoNulls.dll
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\ManejoNulls\obj\Debug\net5.0\ref\ManejoNulls.dll
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\ManejoNulls\obj\Debug\net5.0\ManejoNulls.pdb
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\ManejoNulls\obj\Debug\net5.0\ManejoNulls.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\FormatoSaidaUser\bin\Debug\net5.0\FormatoSaidaUser.exe
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\FormatoSaidaUser\bin\Debug\net5.0\FormatoSaidaUser.deps.json
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\FormatoSaidaUser\bin\Debug\net5.0\FormatoSaidaUser.runtimeconfig.json
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\FormatoSaidaUser\bin\Debug\net5.0\FormatoSaidaUser.runtimeconfig.dev.json
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\FormatoSaidaUser\bin\Debug\net5.0\FormatoSaidaUser.dll
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\FormatoSaidaUser\bin\Debug\net5.0\ref\FormatoSaidaUser.dll
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\FormatoSaidaUser\bin\Debug\net5.0\FormatoSaidaUser.pdb
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\FormatoSaidaUser\obj\Debug\net5.0\FormatoSaidaUser.csprojAssemblyReference.cache
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\FormatoSaidaUser\obj\Debug\net5.0\FormatoSaidaUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\FormatoSaidaUser\obj\Debug\net5.0\FormatoSaidaUser.AssemblyInfoInputs.cache
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\FormatoSaidaUser\obj\Debug\net5.0\FormatoSaidaUser.AssemblyInfo.cs
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\FormatoSaidaUser\obj\Debug\net5.0\FormatoSaidaUser.csproj.CoreCompileInputs.cache
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\FormatoSaidaUser\obj\Debug\net5.0\FormatoSaidaUser.dll
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\FormatoSaidaUser\obj\Debug\net5.0\ref\FormatoSaidaUser.dll
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\FormatoSaidaUser\obj\Debug\net5.0\FormatoSaidaUser.pdb
+C:\Users\sarac\OneDrive\Documents\CSharp\Codigo\Capitulo02\FormatoSaidaUser\obj\Debug\net5.0\FormatoSaidaUser.genruntimeconfig.cache
